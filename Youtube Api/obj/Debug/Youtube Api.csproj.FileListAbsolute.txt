@@ -1,0 +1,10 @@
+C:\Users\Aazam Jutt\source\repos\Youtube Api\Youtube Api\bin\Debug\Youtube Api.exe.config
+C:\Users\Aazam Jutt\source\repos\Youtube Api\Youtube Api\bin\Debug\Youtube Api.exe
+C:\Users\Aazam Jutt\source\repos\Youtube Api\Youtube Api\bin\Debug\Youtube Api.pdb
+C:\Users\Aazam Jutt\source\repos\Youtube Api\Youtube Api\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Aazam Jutt\source\repos\Youtube Api\Youtube Api\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Aazam Jutt\source\repos\Youtube Api\Youtube Api\obj\Debug\Youtube Api.csproj.AssemblyReference.cache
+C:\Users\Aazam Jutt\source\repos\Youtube Api\Youtube Api\obj\Debug\Youtube Api.csproj.CoreCompileInputs.cache
+C:\Users\Aazam Jutt\source\repos\Youtube Api\Youtube Api\obj\Debug\Youtube Api.csproj.CopyComplete
+C:\Users\Aazam Jutt\source\repos\Youtube Api\Youtube Api\obj\Debug\Youtube Api.exe
+C:\Users\Aazam Jutt\source\repos\Youtube Api\Youtube Api\obj\Debug\Youtube Api.pdb
